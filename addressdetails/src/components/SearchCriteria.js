@@ -1,6 +1,5 @@
 import React, { StrictMode } from "react";
 
-
 const SearchCriteria = ()=>{
     return(
         <div className="Seach">

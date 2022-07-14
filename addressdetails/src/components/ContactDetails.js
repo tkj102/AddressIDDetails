@@ -82,6 +82,7 @@ class  contactDetails extends React.Component{
                 { 
                   this.setState({readOnlyFlag: false});
                   this.setState({saveVisibility: 'visible'});
+                  
                   console.log("this.readOnlyFlag",this.state.readOnlyFlag)
                 } 
               }  
